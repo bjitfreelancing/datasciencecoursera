@@ -1,4 +1,4 @@
-datasciencecoursera
+Datascience Coursera
 ===================
 
-Datascience Repository for the Specialization courses
+Datascience Repository for the cOURSERA Specialization courses
